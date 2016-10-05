@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/liferay-websocket.iml" filepath="$PROJECT_DIR$/liferay-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket-api-spifly-fragment/src/main/liferay-websocket.iml" filepath="$PROJECT_DIR$/websocket-api-spifly-fragment/src/main/liferay-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket-api-spifly-fragment/src/main/websocket-api-spifly-fragment.iml" filepath="$PROJECT_DIR$/websocket-api-spifly-fragment/src/main/websocket-api-spifly-fragment.iml" />
+    </modules>
+  </component>
+</project>
